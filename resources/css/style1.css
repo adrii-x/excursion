@@ -1,0 +1,37 @@
+body{
+   background-color: black;
+   text-align: center; 
+}
+body h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;  
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  margin: 15px; 
+}
+ .download{
+    color: aquamarine;
+    font-size: 16px;
+
+ }
+ .grey{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 21px;
+     color: grey;
+ }
+ img.camp{
+     margin: 15px;
+ }
+ video{
+   margin: 10px;
+ }
+a{
+  margin: 10px;
+}
+.footer{
+  color: grey;
+  float: right;
+  height: 5px;
+
+}
